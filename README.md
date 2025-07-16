@@ -1,6 +1,3 @@
-# compton-data-space-presentation
-Code and slides explaining Compton Data Space concepts and analysis, presented on 17 July 2025. Includes examples using COSI simulation data.
-
 # Compton Data Space – Presentation and Code
 
 This repository contains code, diagrams, and a PowerPoint presentation prepared for an talk on **Compton Data Space**, delivered on **17 July 2025**.
