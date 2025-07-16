@@ -1,17 +1,26 @@
-# Compton Data Space – Presentation and Code
+# Compton Data Space – Code and Presentation
 
-This repository contains code, diagrams, and a PowerPoint presentation prepared for an talk on **Compton Data Space**, delivered on **17 July 2025**.
+This repository contains materials on **Compton Data Space**, including:
 
-## Contents
-- 📊 **Slides**: Introductory concepts on gamma-ray detection and Compton data space
-- 🧪 **Code**: Python scripts demonstrating how Compton events are visualized and binned
+- 🧠 A PowerPoint presentation explaining Compton scattering and GRB analysis
+- 🧪 Python notebook demonstrating concepts and data visualization
+- 📁 Simulation data and configuration files from COSI
+- 📊 Plots generated from Compton event analysis
 
+## Presented on:
+🗓️ **17 July 2025**  
+🎓 For educational and training purposes (COSI/GRB context)
 
-## Context
-Prepared for internal training and public outreach based on simulated data from the **COSI** (Compton Spectrometer and Imager) telescope.
+## Files:
+- `Understanding Compton Data Space & GRB Analysis.pptx` – main presentation slides
+- `intro_cds_extra_information.ipynb` – supporting code notebook
+- `grb101216721_bk_binned_data.hdf5` – example GRB binned data
+- `grb_bk.yaml` – configuration file for background
+- `my_plot_rotated.pdf`, `my_plot.pdf` – generated outputs
 
 ## Author
-Mustafa ([@Mustafa-hub-maker](https://github.com/Mustafa-hub-maker))
+📌 [Mustafa-hub-maker](https://github.com/Mustafa-hub-maker)
 
 ## License
-[MIT](LICENSE) – feel free to use and adapt with attribution.
+MIT – Free to use and adapt with attribution.
+
