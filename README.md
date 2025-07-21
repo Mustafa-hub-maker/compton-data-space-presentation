@@ -1,26 +1,26 @@
 # Compton Data Space – Code and Presentation
 
-This repository contains materials on **Compton Data Space**, including:
+This repository includes code related to **Compton Data Space (CDS)** and gamma-ray burst (GRB) analysis using COSI simulation data.
 
-- 🧠 A PowerPoint presentation explaining Compton scattering and GRB analysis
-- 🧪 Python notebook demonstrating concepts and data visualization
-- 📁 Simulation data and configuration files from COSI
-- 📊 Plots generated from Compton event analysis
+## Contents
 
-## Presented on:
-🗓️ **17 July 2025**  
-🎓 For educational and training purposes (COSI/GRB context)
+- A PowerPoint presentation explaining Compton scattering and GRB localization
+- A Python notebook demonstrating CDS concepts and visualization
+- Example simulation data and configuration files
+- Output plots from GRB photon analysis
 
-## Files:
-- `Understanding Compton Data Space & GRB Analysis.pptx` – main presentation slides
-- `intro_cds_extra_information.ipynb` – supporting code notebook
-- `grb101216721_bk_binned_data.hdf5` – example GRB binned data
-- `grb_bk.yaml` – configuration file for background
-- `my_plot_rotated.pdf`, `my_plot.pdf` – generated outputs
+## Presented on
+**17 July 2025**  
+
+
+## Files
+
+- `Understanding Compton Data Space & GRB Analysis.pptx` – presentation slides
+- `intro_cds_extra_information.ipynb` – annotated notebook with step-by-step explanations
+- `grb101216721_bk_binned_data.hdf5` – GRB binned dataset
+- `grb_bk.yaml` – background modeling configuration
+- `my_plot.pdf`, `my_plot_rotated.pdf` – sample output sky maps
 
 ## Author
-📌 [Mustafa-hub-maker](https://github.com/Mustafa-hub-maker)
 
-## License
-MIT – Free to use and adapt with attribution.
-
+Ghulam Mustafa
